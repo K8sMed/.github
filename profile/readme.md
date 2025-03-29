@@ -1,6 +1,6 @@
    # K8sMed - Kubernetes Medical Kit
 
-   ![K8sMed Logo](https://example.com/k8smed-logo.png)
+   ![K8sMed Logo]([https://example.com/k8smed-logo.png](https://github.com/K8sMed/K8sMed/blob/608ffb0a48b27fb4dfad4996d592d50d3bdaa360/docs/assets/images/logo.png))
 
    ## About Us
 
